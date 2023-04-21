@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Gustavo Engers</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gusengers&label=Visitas&color=0eb437&style=flat" alt="gusengers" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusengers" alt="gusengers" /></a> </p>
 
 - 🔭 El último proyecto que realicé es <br>
