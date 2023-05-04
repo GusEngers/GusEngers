@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusengers" alt="gusengers" /></a> </p>
 
 - 🔭 Últimos proyectos realizados <br>
-&nbsp;[Wikipedia-Scraping](https://github.com/GusEngers/wikipedia-scraping#readme)
+&nbsp;[Wikipedia-Scraping](https://github.com/GusEngers/wikipedia-scraping#readme) <br>
 &nbsp;[Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
 
 - 🌱 Actualmente estoy aprendiendo <br>
