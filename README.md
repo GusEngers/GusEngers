@@ -5,7 +5,8 @@
 
 - 🔭 Últimos proyectos realizados <br>
 &nbsp;[Wikipedia-Scraping](https://github.com/GusEngers/wikipedia-scraping#readme) <br>
-&nbsp;[Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
+&nbsp;[Url-Shorten](https://github.com/GusEngers/url-shorten#readme) <br>
+&nbsp;[User-Auth-API v1.0](https://github.com/GusEngers/user-auth-api#readme)
 
 - 🌱 Actualmente estoy aprendiendo <br>
 &nbsp;**Django, Angular, Typescript, Python**
