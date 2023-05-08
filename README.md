@@ -6,13 +6,14 @@
 - 🔭 Últimos proyectos realizados <br>
 &nbsp;[Wikipedia-Scraping](https://github.com/GusEngers/wikipedia-scraping#readme) <br>
 &nbsp;[Url-Shorten](https://github.com/GusEngers/url-shorten#readme) <br>
-&nbsp;[User-Auth-API v1.0](https://github.com/GusEngers/user-auth-api#readme)
+&nbsp;[User-Auth-API v1.0](https://github.com/GusEngers/user-auth-api#readme) <br>
+&nbsp;[Tasks-Management-Api](https://github.com/GusEngers/tasks-management-api#readme)
 
 - 🌱 Actualmente estoy aprendiendo <br>
-&nbsp;**Django, Angular, Typescript, Python**
+&nbsp;**NestJS, Django, Angular, Typescript, Python**
 
 - 👯 El último proyecto en el cual colaboré es <br>
-&nbsp;[Kinema](https://github.com/PG-Movies-Group-1/Kinema-Project)
+&nbsp;[Kinema](https://github.com/PG-Movies-Group-1/Kinema-Project#readme)
 
 - 📫 Pueden contactarme por <br>
 &nbsp;[gustavoengers6441@gmail.com](mailto:gustavoengers6441@gmail.com)
