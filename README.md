@@ -1,7 +1,14 @@
 <h1 align="center">Hola 👋, soy Gustavo Engers</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusengers" alt="gusengers" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusengers" alt="gusengers" /></a> </p> -->
+
+- 📄 Sobre mi <br>
+&nbsp;Sin temor a aprender nuevas techs y vivir nuevas experiencias. Buscando un lugar donde pueda mostrar mis capacidades! 😊
+
+- 💥 Últimas novedades <br>
+  - Me encuentro en estos momentos acentando conocimientos en NestJS, con el fin de poner en práctica esos conceptos estoy desarrollando una nueva Aplicación Web que tendrá el mismo tema que [PI-Pokemon](https://github.com/GusEngers/PI-Pokemon), sólo que en ésta ocasión para el desarrollo Back-End estaré utilizando NestJS + MongoDB/Mongoose y para el desarrollo Front-End usaré Angular implementando temas avanzados de dicho framework, y como superset de estilos utilizaré Scss. <br>
+  - Por último, estoy pensando en adentrarme dentro del mundo Testing que en dicho caso este proyecto sera el conejillo de indias.
 
 - 🔭 Últimos proyectos realizados <br>
 &nbsp;[Wikipedia-Scraping](https://github.com/GusEngers/wikipedia-scraping#readme) <br>
@@ -17,9 +24,6 @@
 
 - 📫 Pueden contactarme por <br>
 &nbsp;[gustavoengers6441@gmail.com](mailto:gustavoengers6441@gmail.com)
-
-- 📄 Sobre mi <br>
-&nbsp;Sin temor a aprender nuevas techs y vivir nuevas experiencias. Buscando un lugar donde pueda mostrar mis capacidades! 😊
 
 <h3 align="left">Otras redes:</h3>
 <p align="left">
