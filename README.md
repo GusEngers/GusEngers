@@ -7,8 +7,7 @@
 &nbsp;Sin temor a aprender nuevas techs y vivir nuevas experiencias. Buscando un lugar donde pueda mostrar mis capacidades! 😊
 
 - 💥 Últimas novedades <br>
-  - Me encuentro en estos momentos acentando conocimientos en NestJS, con el fin de poner en práctica esos conceptos estoy desarrollando una nueva Aplicación Web que tendrá el mismo tema que [PI-Pokemon](https://github.com/GusEngers/PI-Pokemon), sólo que en ésta ocasión para el desarrollo Back-End estaré utilizando NestJS + MongoDB/Mongoose y para el desarrollo Front-End usaré Angular implementando temas avanzados de dicho framework, y como superset de estilos utilizaré Scss. <br>
-  - Por último, estoy pensando en adentrarme dentro del mundo Testing que en dicho caso este proyecto sera el conejillo de indias.
+  - Me encuentro en estos momentos acentando conocimientos en NestJS, y además profundizando conceptos en HTML y CSS.
 
 - 🔭 Últimos proyectos realizados <br>
 &nbsp;[Wikipedia-Scraping](https://github.com/GusEngers/wikipedia-scraping#readme) <br>
