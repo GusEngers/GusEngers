@@ -1,28 +1,29 @@
 <h1 align="center">Hola 👋, soy Gustavo Engers</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">Desarrollador Web Full-Stack</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusengers" alt="gusengers" /></a> </p> -->
 
 - 📄 Sobre mi <br>
-&nbsp;Sin temor a aprender nuevas techs y vivir nuevas experiencias. Buscando un lugar donde pueda mostrar mis capacidades! 😊
+  - Soy un apasionado de la programación y me especializo en **Programación Backend** pero también puedo participar en **Programación Frontend**.
+  - Aunque soy nuevo en el campo profesional, he invertido mucho tiempo y esfuerzo en adquirir conocimientos y habilidades en el desarrollo de aplicaciones web.
 
-- 💥 Últimas novedades <br>
-  - Me encuentro en estos momentos acentando conocimientos en NestJS, y además profundizando conceptos en HTML y CSS.
+- 🔭 Últimos proyectos realizados
+  - [Wikipedia-Scraping](https://github.com/GusEngers/wikipedia-scraping#readme)
+  - [Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
+  - [User-Auth-API v1.0](https://github.com/GusEngers/user-auth-api#readme)
+  - [Tasks-Management-Api](https://github.com/GusEngers/tasks-management-api#readme)
 
-- 🔭 Últimos proyectos realizados <br>
-&nbsp;[Wikipedia-Scraping](https://github.com/GusEngers/wikipedia-scraping#readme) <br>
-&nbsp;[Url-Shorten](https://github.com/GusEngers/url-shorten#readme) <br>
-&nbsp;[User-Auth-API v1.0](https://github.com/GusEngers/user-auth-api#readme) <br>
-&nbsp;[Tasks-Management-Api](https://github.com/GusEngers/tasks-management-api#readme)
+- 🌱 Actualmente estoy enfocado en
+  - **Métodos avanzados de Express**
+  - **Seguridad y mejores prácticas en el desarrollo Backend**
+  - **Contenerización con Docker**
+  - **Testing y Documentación**
 
-- 🌱 Actualmente estoy aprendiendo <br>
-&nbsp;**NestJS, Django, Angular, Typescript, Python**
+- 👯 El último proyecto en el cual colaboré es
+  - [Kinema](https://github.com/PG-Movies-Group-1/Kinema-Project#readme)
 
-- 👯 El último proyecto en el cual colaboré es <br>
-&nbsp;[Kinema](https://github.com/PG-Movies-Group-1/Kinema-Project#readme)
-
-- 📫 Pueden contactarme por <br>
-&nbsp;[gustavoengers6441@gmail.com](mailto:gustavoengers6441@gmail.com)
+- 📫 Pueden contactarme por
+  - [gustavoengers6441@gmail.com](mailto:gustavoengers6441@gmail.com)
 
 <h3 align="left">Otras redes:</h3>
 <p align="left">
