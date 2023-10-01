@@ -8,10 +8,8 @@
   - Aunque soy nuevo en el campo profesional, he invertido mucho tiempo y esfuerzo en adquirir conocimientos y habilidades en el desarrollo de aplicaciones web.
 
 - 🔭 Últimos proyectos realizados
-  - [Wikipedia-Scraping](https://github.com/GusEngers/wikipedia-scraping#readme)
-  - [Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
-  - [User-Auth-API v1.0](https://github.com/GusEngers/user-auth-api#readme)
-  - [Tasks-Management-Api](https://github.com/GusEngers/tasks-management-api#readme)
+  - [Nueva versión de Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
+  - [Nueva versión de User-Auth-API](https://github.com/GusEngers/user-auth-api#readme)
 
 - 🌱 Actualmente estoy enfocado en
   - **Métodos avanzados de Express**
