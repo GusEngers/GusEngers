@@ -7,15 +7,15 @@
   - Soy un apasionado de la programación y me especializo en **Programación Backend** pero también puedo participar en **Programación Frontend**.
   - Aunque soy nuevo en el campo profesional, he invertido mucho tiempo y esfuerzo en adquirir conocimientos y habilidades en el desarrollo de aplicaciones web.
 
-- 🔭 Últimos proyectos realizados
+- 🔭 Últimos proyectos trabajados
+  - [Api-Generator](https://github.com/GusEngers/api-generator#readme)
   - [Nueva versión de Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
   - [Nueva versión de User-Auth-API](https://github.com/GusEngers/user-auth-api#readme)
 
 - 🌱 Actualmente estoy enfocado en
   - **Métodos avanzados de Express**
   - **Seguridad y mejores prácticas en el desarrollo Backend**
-  - **Contenerización con Docker**
-  - **Testing y Documentación**
+  - **Documentación**
 
 - 👯 El último proyecto en el cual colaboré es
   - [Kinema](https://github.com/PG-Movies-Group-1/Kinema-Project#readme)
