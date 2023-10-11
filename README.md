@@ -7,6 +7,10 @@
   - Soy un apasionado de la programación y me especializo en **Programación Backend** pero también puedo participar en **Programación Frontend**.
   - Aunque soy nuevo en el campo profesional, he invertido mucho tiempo y esfuerzo en adquirir conocimientos y habilidades en el desarrollo de aplicaciones web.
 
+- 😉 Actualmente estoy trabajando en
+  - [Mi Portfolio](https://github.com/GusEngers/portfolio)
+  - [Panel de Administración de Portfolio](https://github.com/GusEngers/admin-portfolio)
+
 - 🔭 Últimos proyectos trabajados
   - [Api-Generator](https://github.com/GusEngers/api-generator#readme)
   - [Nueva versión de Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
