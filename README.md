@@ -8,6 +8,7 @@
   - Aunque soy nuevo en el campo profesional, he invertido mucho tiempo y esfuerzo en adquirir conocimientos y habilidades en el desarrollo de aplicaciones web.
 
 - 😉 Actualmente estoy trabajando en
+  - [API Web RESTful para simulación de tienda](https://github.com/GusEngers/fake-api)
   - [Mi Portfolio](https://github.com/GusEngers/portfolio)
   - [Panel de Administración de Portfolio](https://github.com/GusEngers/admin-portfolio)
 
