@@ -7,20 +7,22 @@
   - Soy un apasionado de la programación y me especializo en **Programación Backend** pero también puedo participar en **Programación Frontend**.
   - Aunque soy nuevo en el campo profesional, he invertido mucho tiempo y esfuerzo en adquirir conocimientos y habilidades en el desarrollo de aplicaciones web.
 
-- 😉 Actualmente estoy trabajando en
-  - [API Web RESTful para simulación de tienda](https://github.com/GusEngers/fake-store)
-  - [Mi Portfolio](https://github.com/GusEngers/portfolio)
-  - [Panel de Administración de Portfolio](https://github.com/GusEngers/admin-portfolio)
-
 - 🔭 Últimos proyectos trabajados
+  - [API Web RESTful para simulación de tienda](https://github.com/GusEngers/fake-store)
   - [Api-Generator](https://github.com/GusEngers/api-generator#readme)
   - [Nueva versión de Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
   - [Nueva versión de User-Auth-API](https://github.com/GusEngers/user-auth-api#readme)
 
+
+- 😉 Actualmente estoy trabajando en
+  - [Nueva versión de mi Portfolio](https://github.com/GusEngers/portfolio)
+  - [Panel de Administración de Portfolio](https://github.com/GusEngers/admin-portfolio)
+
 - 🌱 Actualmente estoy enfocado en
+  - **Iniciando en la POO con Java** 
   - **Métodos avanzados de Express**
   - **Seguridad y mejores prácticas en el desarrollo Backend**
-  - **Documentación**
+  - **Documentación con Postman**
 
 - 👯 El último proyecto en el cual colaboré es
   - [Kinema](https://github.com/PG-Movies-Group-1/Kinema-Project#readme)
