@@ -6,8 +6,10 @@
 - 📄 Sobre mi <br>
   - Soy un apasionado de la programación y me especializo en **Programación Backend** pero también puedo participar en **Programación Frontend**.
   - Aunque soy nuevo en el campo profesional, he invertido mucho tiempo y esfuerzo en adquirir conocimientos y habilidades en el desarrollo de aplicaciones web.
+  - Me sigo formando y en este momento estoy aprendiendo **Programación Orientada a Objetos** con un lenguaje robusto como es Java.
 
 - 🔭 Últimos proyectos trabajados
+  - [Ejercicios JAVA](https://github.com/GusEngers/ejercicios-java) 
   - [API Web RESTful para simulación de tienda](https://github.com/GusEngers/fake-store)
   - [Api-Generator](https://github.com/GusEngers/api-generator#readme)
   - [Nueva versión de Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
