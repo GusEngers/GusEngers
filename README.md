@@ -9,7 +9,8 @@
   - Me sigo formando y en este momento estoy aprendiendo **Programación Orientada a Objetos** con un lenguaje robusto como es Java.
 
 - 🔭 Últimos proyectos trabajados
-  - [Ejercicios JAVA](https://github.com/GusEngers/ejercicios-java) 
+  - [Nueva versión de mi Portfolio](https://github.com/GusEngers/portfolio)
+  - [Panel de Administración de Portfolio](https://github.com/GusEngers/admin-portfolio)
   - [API Web RESTful para simulación de tienda](https://github.com/GusEngers/fake-store)
   - [Api-Generator](https://github.com/GusEngers/api-generator#readme)
   - [Nueva versión de Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
@@ -17,8 +18,8 @@
 
 
 - 😉 Actualmente estoy trabajando en
-  - [Nueva versión de mi Portfolio](https://github.com/GusEngers/portfolio)
-  - [Panel de Administración de Portfolio](https://github.com/GusEngers/admin-portfolio)
+  - [Ejercicios JAVA](https://github.com/GusEngers/ejercicios-java)
+  - [Algoritmos y Estructuras de Datos](https://github.com/GusEngers/algoritmos)
 
 - 🌱 Actualmente estoy enfocado en
   - **Iniciando en la POO con Java** 
