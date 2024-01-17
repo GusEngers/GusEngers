@@ -22,6 +22,8 @@
   - [Algoritmos y Estructuras de Datos](https://github.com/GusEngers/algoritmos)
 
 - 🌱 Actualmente estoy enfocado en
+  - **Fundamentos de Diseño UX/UI**
+  - **Diseño Web Adaptable/Responsivo**
   - **Iniciando en la POO con Java** 
   - **Métodos avanzados de Express**
   - **Seguridad y mejores prácticas en el desarrollo Backend**
