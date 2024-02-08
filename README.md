@@ -4,22 +4,14 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusengers" alt="gusengers" /></a> </p> -->
 
 - 📄 Sobre mi <br>
-  - Soy un apasionado de la programación y me especializo en **Programación Backend** pero también puedo participar en **Programación Frontend**.
-  - Aunque soy nuevo en el campo profesional, he invertido mucho tiempo y esfuerzo en adquirir conocimientos y habilidades en el desarrollo de aplicaciones web.
-  - Me sigo formando y en este momento estoy aprendiendo **Programación Orientada a Objetos** con un lenguaje robusto como es Java.
+  - Un Desarrollador Web con un fuerte dominio en Desarrollo Back-End y un excelente manejo en Desarrollo Front-End.
+  - En Desarrollo Back-End mantengo un buen manejo de tecnologías como Node.js con Express, junto con Moongose y Sequelize para un perfecto manejo de bases de datos tanto de MongoDB como de PosgreSQL, todo esto siguiendo los estándares de la arquitectura RESTful.
+  - En Desarrollo Front-End utilizo tecnologías como React y Angular para desarrollar páginas dinámicas, como así también HTML y CSS para construir páginas estáticas junto con Javascript para añadirles interacción.
+  - En estos momentos me encuentro poniéndome a prueba obteniendo certificaciones que enmarquen todavía más mi camino, dentro de ellas se encuentran Diseño Responsive, Mejores Prácticas en Back-End, Bases de Datos Relacionales, Control de Calidad, entre otras.
 
 - 🔭 Últimos proyectos trabajados
-  - [Juego Tic-Tac-Toe](https://github.com/GusEngers/tic-tac-toe) 
-  - [Nueva versión de mi Portfolio](https://github.com/GusEngers/portfolio)
-  - [Panel de Administración de Portfolio](https://github.com/GusEngers/admin-portfolio)
-  - [API Web RESTful para simulación de tienda](https://github.com/GusEngers/fake-store)
-  - [Api-Generator](https://github.com/GusEngers/api-generator#readme)
-  - [Nueva versión de Url-Shorten](https://github.com/GusEngers/url-shorten#readme)
-
-
-- 😉 Actualmente estoy trabajando en
-  - [Ejercicios JAVA](https://github.com/GusEngers/ejercicios-java)
-  - [Algoritmos y Estructuras de Datos](https://github.com/GusEngers/algoritmos)
+  - En estos momentos me encuentro realizando diversas certificaciones con el objetivo de luego ponerlas a prueba desarrollando más proyectos o mejorando los ya existentes.
+  - Además, trabajando en una nueva versión de mi portfolio para hacerlo más bonito y que incluyan más funcionalidades importantes (un dato no menor, empecé a usar Boostrap).
 
 - 🌱 Actualmente estoy enfocado en
   - **Fundamentos de Diseño UX/UI**
@@ -27,13 +19,14 @@
   - **Iniciando en la POO con Java** 
   - **Métodos avanzados de Express**
   - **Seguridad y mejores prácticas en el desarrollo Backend**
-  - **Documentación con Postman**
+  - **Desarrollo de Testing**
 
 - 👯 El último proyecto en el cual colaboré es
   - [Kinema](https://github.com/PG-Movies-Group-1/Kinema-Project#readme)
 
 - 📫 Pueden contactarme por
   - [gustavoengers6441@gmail.com](mailto:gustavoengers6441@gmail.com)
+  - +54 9 3754-499497
 
 <h3 align="left">Otras redes:</h3>
 <p align="left">
