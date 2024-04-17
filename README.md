@@ -11,7 +11,8 @@
 
 - 🔭 Últimos proyectos trabajados
   - En estos momentos me encuentro realizando diversas certificaciones con el objetivo de luego ponerlas a prueba desarrollando más proyectos o mejorando los ya existentes.
-  - Además, trabajando en una nueva versión de mi portfolio para hacerlo más bonito y que incluyan más funcionalidades importantes (un dato no menor, empecé a usar Boostrap).
+  - Además, empezando un nuevo proyecto para conersión de formatos de imagen.
+  - Actualización de proyectos.
 
 - 🌱 Actualmente estoy enfocado en
   - **Fundamentos de Diseño UX/UI**
